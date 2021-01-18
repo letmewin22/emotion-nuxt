@@ -41,7 +41,7 @@ export default {
   axios: {},
 
   styleResources: {
-    scss: ['~/styles/helpers/all.scss'],
+    scss: ['~/styles/helpers/all.scss', '~/styles/components/all.scss'],
   },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa

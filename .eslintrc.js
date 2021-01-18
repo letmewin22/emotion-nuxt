@@ -19,5 +19,6 @@ module.exports = {
     'no-console': 'off',
     'vue/require-default-prop': 'off',
     'unicorn/prefer-text-content': 'off',
+    'no-new': 'off',
   },
 }
